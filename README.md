@@ -3,7 +3,7 @@ This project demonstrates an end-to-end analytics and machine learning pipeline 
 
 ## Dashboard
 
-
+![Dashboard Overview](retail_analytics-0001.png)
 
 The objective is to identify customers who are at high risk of becoming inactive within the next 90 days and to quantify the associated revenue at risk. This enables targeted retention actions instead of broad, inefficient campaigns.
 
