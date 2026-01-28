@@ -101,10 +101,10 @@ It supports:
 Instead of analyzing lost revenue, the business can act in advance.
 
 # Technology Stack
-Database: PostgreSQL
-Languages: SQL, Python
-Machine Learning: scikit-learn
-Visualization: Power BI
+- Database: PostgreSQL
+- Languages: SQL, Python
+- Machine Learning: scikit-learn
+- Visualization: Power BI
 
 ## Next Improvements
 Potential future enhancements include:
